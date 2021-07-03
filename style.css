@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.main_area{
+    width: 100%;
+    background: rgb(172, 233, 238);
+    border: 2px solid #ddd;
+    border-radius: 15px;
+    display: block;
+}
+
+.col-1,.col-2,.col-3{
+    float: left;
+    text-align: center;
+    width: 500px;
+    border-radius: 10px;
+    border: 2px solid rgb(117, 145, 235);
+    
+}
